@@ -1,6 +1,6 @@
 # Egalitarian_Social_Selection
 
-Supplementary Materials associated with the Netlogo model for the submitted MS: ‘Egalitarian Social Selection in Human Evolution: Male Competition or Female Offspring Defence', by Ben Gleeson (Fenner School, Australian National University).
+Supplementary Materials associated with the Netlogo model for the submitted MS: ‘Egalitarian Social Selection in Human Evolution: Male Competition or Female Offspring Defence?', by Ben Gleeson (Fenner School, Australian National University).
 
 This model examines evolved human socio-behavioural dynamics with a view to explaining paradoxically high levels of contemporary male violence and social status. It is based on a conceptual synthesis of ‘the challenge hypothesis’ (Wingfield, 2017; Wingfield et al., 1990) and ‘biosocial model’ hypothesis (Mazur, 1985; Mazur & Booth, 1998) of testosterone, together with theorised ‘social selection’ against domineering ancestral males (Boehm, 1993, 2017; Gintis et al., 2019; Knauft, 1991; Sarkar & Wrangham, 2023; Wrangham, 2021a, 2021b), and inferred transitions from dominance-based male status competition to complex and socially-mediated ‘prestige-based’ forms (Erdal & Whiten, 1994; Henrich & Gil-White, 2001; Zeng et al., 2021). It depicts a generic hominin social environment where sociable status competition allows success in culturally constructed group hierarchies, but impulsive (‘reactive’) aggression is punished.
 
