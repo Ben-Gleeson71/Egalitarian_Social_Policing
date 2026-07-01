@@ -24,7 +24,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Credits and References:
 
-The model was constructed with Netlogo 6.1.0 (Wilensky, 1999) reformatted for Netlogo 7.0.2 and is available on the Netlogo Modelling Commons. For further description, including code, and ODD protocol (following Grimm et al., 2020), see Supplementary Information available at https://github.com/Ben-Gleeson71/MedMaleConAgg
+The model was constructed with Netlogo 6.1.0 (Wilensky, 1999) reformatted for Netlogo 7.0.2 and is available on the Netlogo Modelling Commons. 
 
 Boehm, C. (1993). Egalitarian Behavior and Reverse Dominance Hierarchy. Current Anthropology, 34(3), 227–254.
 
